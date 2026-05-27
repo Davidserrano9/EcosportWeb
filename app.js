@@ -14,7 +14,7 @@
       blurb:'Capa media de aislamiento híbrido que regula la temperatura en plena actividad de montaña.',
       tagline:'Aislamiento híbrido para la actividad de alta montaña.',
       description:'La Chaqueta Cima combina un cuerpo aislante con costados elásticos transpirables para mantener el calor sin sobrecalentar en marcha. Una capa media versátil que rinde tanto en la aproximación como en la cumbre.',
-      images:['inventario/chaqueta-1.jpg','INVENTARIO/chaqueta-2.jpg'],
+      images:['INVENTARIO/chaqueta-1.jpg','INVENTARIO/chaqueta-2.jpg'],
       sizes:['S','M','L','XL'],
       stock:'En stock',
       specs:[
@@ -35,7 +35,7 @@
       blurb:'Mochila de gran volumen con espalda ventilada para travesías de varios días.',
       tagline:'50 litros de capacidad para travesías de varios días.',
       description:'Mochila de gran volumen con espalda ventilada y doble acceso, superior y frontal. Pensada para portear cargas largas con comodidad sin renunciar a la organización interior.',
-      images:['inventario/mochila-1.jpg','INVENTARIO/mochila-2.png'],
+      images:['INVENTARIO/mochila-1.jpg','INVENTARIO/mochila-2.png'],
       sizes:null,
       stock:'En stock',
       specs:[
@@ -56,7 +56,7 @@
       blurb:'Cortavientos ultraligero que protege el núcleo y se pliega en su propio bolsillo.',
       tagline:'Cortavientos ultraligero para proteger el núcleo.',
       description:'El Chaleco EcoFibra detiene el viento sobre el torso sin limitar el movimiento de los brazos. Se pliega en su propio bolsillo y pesa lo que un puñado de hojas.',
-      images:['inventario/chaleco-1.jpg','INVENTARIO/chaleco-2.jpg'],
+      images:['INVENTARIO/chaleco-1.jpg','INVENTARIO/chaleco-2.jpg'],
       sizes:['S','M','L','XL'],
       stock:'En stock',
       specs:[
@@ -77,7 +77,7 @@
       blurb:'Zapatilla de montaña con agarre multidireccional y amortiguación reactiva.',
       tagline:'Agarre y amortiguación para el terreno técnico.',
       description:'Zapatilla de trail con tacos profundos multidireccionales y mediasuela reactiva. Ofrece estabilidad en descensos exigentes y protección frente a impactos en terreno irregular.',
-      images:['inventario/zapatilla-1.jpg','INVENTARIO/zapatilla-2.jpg'],
+      images:['INVENTARIO/zapatilla-1.jpg','INVENTARIO/zapatilla-2.jpg'],
       sizes:['39','40','41','42','43','44','45','46'],
       stock:'Pocas unidades',
       specs:[
